@@ -2,6 +2,7 @@
 ### Contains all of the code developed for the "Prenatal Tracker" BME Senior Design project for Virginia Tech
 Contributors: Alexis Richmond, Laura Wenger, Emma Simon, Shreya Yedla
 
+The most up-to-date version of the algorithm can be found in the folder titled "2.19.23". This version uses MongoDB and PowerShell.
 
 The 'CTSI Examples' folder contains programs written by Alexis Richmond for their Biomedical Informatics Internship in the summer of 2022.
 These files have been included here as an example of preprocessing and machine learning methods.
