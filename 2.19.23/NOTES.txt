@@ -1,0 +1,8 @@
+Command for setting path:
+	Set-Location -Path "---"
+
+Command for importing data to MongoDB:
+	mongoimport --db PrenatalTracker --collection 2.10.23 --file "---" --jsonArray --maintainInsertionOrder
+
+Command for training model:
+	python train.py --ds 2.10.23
